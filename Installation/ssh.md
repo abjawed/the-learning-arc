@@ -1,4 +1,4 @@
-Installing sshd(SSH) server on Ubuntu:-
+sshd(SSH) server Installation on Ubuntu:-
 
 sudo apt update
 sudo apt upgrade
